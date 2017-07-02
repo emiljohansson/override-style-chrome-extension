@@ -1,4 +1,5 @@
-# override-style-chrome-extension
+# override-style-chrome-extension [![Build Status](https://travis-ci.org/emiljohansson/override-style-chrome-extension.svg?branch=master)](https://travis-ci.org/emiljohansson/override-style-chrome-extension) [![npm version](https://img.shields.io/npm/v/override-style-chrome-extension.svg)](https://www.npmjs.com/package/override-style-chrome-extension) [![Coverage Status](https://img.shields.io/coveralls/emiljohansson/override-style-chrome-extension/master.svg)](https://coveralls.io/r/emiljohansson/override-style-chrome-extension?branch=master)
+
 
 > Chrome extension that overrides the css style on any page.
 
