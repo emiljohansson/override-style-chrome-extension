@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Override page style",
+  "description": "This extension allows you to override the style of any page",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
