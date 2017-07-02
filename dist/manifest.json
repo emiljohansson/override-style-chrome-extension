@@ -3,7 +3,7 @@
 
   "name": "Override page style",
   "description": "This extension allows you to override the style of any page",
-  "version": "1.0",
+  "version": "1.0.0",
 
   "background": {
     "scripts": ["background.js"],
